@@ -14,12 +14,11 @@ spring.datasource.password = your_db_pass
 
 
 1) Download the project
-2) Extract the Project in Directory
-3) Open the Project in IntelliJIDEA
-4) 'ProductApiApplication' is the Starting point of aaplication so you can click on run button or goto 'ProductApiApplication' class
+2) Open the Project in IntelliJIDEA
+3) 'ProductApiApplication' is the Starting point of aaplication so you can click on run button or goto 'ProductApiApplication' class
 and run the application.
-5) Do check in Run tab below in IntelliJIDEA it will show the logs!
-7) and start testing in Postman
+4) Do check in Run tab below in IntelliJIDEA it will show the logs!
+5) and start testing in Postman
 
 
 Open postman and perform CRUD using below URLs
